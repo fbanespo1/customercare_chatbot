@@ -1,4 +1,3 @@
-Sure! Here's a basic `README.md` file for the project:
 
 ```markdown
 # Sales Chatbot
@@ -36,4 +35,3 @@ To use the chatbot, enter your message in the text input field in the Streamlit 
 This project is licensed under the terms of the MIT license.
 ```
 
-This `README.md` file includes information about the project, requirements, how to run the application, and how to use the chatbot. You can expand on each section and add more details as needed.
